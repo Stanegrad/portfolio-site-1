@@ -35,10 +35,10 @@ gsap.from('.code-img', {
 gsap.from('.chilli-img', {
     duration: 0.75,
     autoAlpha: 0,
-    x: 400,
+    x: 300,
     scrollTrigger: {
         trigger: ".chilli-img",
-        markers: true,
+        // markers: true,
         // Trigger Scroller
         start: "top 80%",
         end: "bottom 70%",

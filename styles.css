@@ -41,10 +41,22 @@ p {
 }
 
 hr {
-  border: dotted #eaf6f6 6px;
+  border: dotted #17d1d1 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
+  background-color: white;
+  opacity: 1;
+    /* border:none;
+    border-top:1px dotted #f00;
+    color:#fff;
+    background-color:#fff;
+    height:5px;
+    width:50%;
+    margin: 100px auto; 
+     */
+    
+  
 }
 
 a {
@@ -55,7 +67,7 @@ a {
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #d06673;
 }
 
 .top-container {
